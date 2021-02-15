@@ -17,3 +17,20 @@ int main()
 
     return 0;
 }
+
+
+}
+
+float deg,rad;
+
+printf("Enter the degree=");
+scanf("%f",degree);
+
+//convert degree to rad
+rad=(3.14/180)*deg;
+
+printf("deg %f in rad is %f\n, deg,rad);
+getch()
+}
+
+
